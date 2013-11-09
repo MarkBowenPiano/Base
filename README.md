@@ -24,3 +24,11 @@ We let your front-end skills shine.
 - A blank Home Template to create unique homepage layouts with.
 - A simple 404 template.
 - A custom post type template with an easily customizable query loop. 
+
+For a more advanced version of Base with a built in Theme Option's Panel see below:
+
+<a href="https://github.com/benbuildsstuff/BaseStandard" title="BaseStandard">BaseStandard</a>
+
+For a responsive version of Base, see below:
+
+<a href="https://github.com/benbuildsstuff/baseResponsive" title="baseResponsive">baseResponsive</a>
