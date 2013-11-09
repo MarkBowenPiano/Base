@@ -10,3 +10,17 @@ No Html, No CSS, No Javascript
 There’s no markup in ‘Base’. We don’t impose ids, classes or external libraries on you as a developer. You can build your site as you want to. If you want to use html5 that’s cool. Go ahead. Base simply gives you the WordPress hooks and tags needed for a standard WordPress site.
 
 We let your front-end skills shine.
+
+- Eric Meyer's CSS reset
+- HTML5 pollyfills for ie9 and below
+- Targetted classes for ie 7 and up
+- jQuery version 1.10.2
+- jQuery UI version 1.10.0
+- WordPress' body_class(); tag
+- WP Nav functionality so user can edit their site menu's easily via the dashboard
+- Simple WP loops for displaying pages and posts. 
+- Included Breadcrumbs functions
+- Search, Category, Blog and Archive Templates.
+- A blank Home Template to create unique homepage layouts with.
+- A simple 404 template.
+- A custom post type template with an easily customizable query loop. 
